@@ -1,16 +1,27 @@
-### Hi there 👋
+```zsh
+> ping 666.666.666.666
+```
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<!--
-**convict-real/convict-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```csharp
+convict-real@github
+----------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       OS  :  Windows 10 x64
+ Terminal  :  Alacritty
+      CPU  :  Intel(R) Core(TM) i5-11500K CPU @ 4.50GHz
+    Alias  :  Convict
+Languages  :  LUA, C++, JS
+  Discord  :  396050982477365248
+ Telegram  :  reis
+```
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/4ca4eb/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/d74681/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/60409c/000000?text=+" width="25" height="20" />
+  <img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
