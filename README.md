@@ -1,5 +1,5 @@
 ```zsh
-> ping 666.666.666.666
+> ping 1.1.1.1
 ```
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="325" height="250" />
 
